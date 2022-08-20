@@ -226,8 +226,7 @@ ul {
 .add{
     display: flex;
     align-items: flex-start;
-    /*padding-right: 10px;
-    padding-bottom: 25px;*/
+    
 }
 .add img {
     margin-top: 4px;
