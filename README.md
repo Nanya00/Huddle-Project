@@ -16,19 +16,18 @@ This is a solution to the [Huddle landing page with alternating feature blocks c
 @font-face {
     src: url(Documents/fonts/Poppins-ExtraBold.ttf);
     font-family: Poppins-ExtraBold;
-}
+}/*linking fonts to your css file*/
 
 .button:hover {
     transform: scale(1.2);
-}
+}/*button transformation on hover*/
 
 .sec2, .sec3, .sec4 {
     width: 20%;
     margin-left: 30px;
-} /* gruouped selection: styling different sections at once*/
+} /* gruouped selection: styling different divs or classes with the same specs at once*/
 ```
 ``` <head>
 <link rel="stylesheet" href="https://fonts.google.com/specimen/Poppins"> 
-
-/* linking fonts to your html file and css file */
+/*linking fonts to your html file */
 ```
